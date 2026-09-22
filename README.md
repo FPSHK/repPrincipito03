@@ -1,2 +1,2 @@
-# repPrincipito2
-
+# El Principito - Página Web
+Página sobre El Principito que cumple con los requisitos pedidos: los estilos están en un archivo CSS externo (estilos.css) enlazado desde index.html, se usa un selector de etiqueta (p) para estilizar todos los párrafos, un selector de clase (.destacado) para cambiar el color de algunos elementos de la lista de personajes, y un selector de id (#titulo-principal) para aplicar un estilo único al título principal (<h1>).
